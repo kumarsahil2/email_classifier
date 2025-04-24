@@ -110,13 +110,3 @@ bash
 Copy
 Edit
 pip install fastapi uvicorn scikit-learn pandas nltk
-☁️ Deployment on Hugging Face Spaces
-To deploy:
-
-Use api.py as the main API
-
-Make sure email_classifier.pkl is uploaded
-
-Set api:app as the entrypoint in Spaces configuration
-
-Space type: "Gradio / FastAPI"
