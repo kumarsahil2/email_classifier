@@ -72,7 +72,7 @@ Edit
 }
 ],
 "masked_email": "Hello, my name is [full_name]. My card number is [credit_debit_no] and [cvv_no]. Kindly help.",
-"category_of_the_email": "Card Issue"
+"category_of_the_email": "problem"
 }
 ⚙️ How to Run Locally
 
